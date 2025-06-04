@@ -9,8 +9,7 @@
 
 Transform your ideas into beautiful, responsive websites instantly with the power of AI and modern UI components.
 
-![Demo Video](https://via.placeholder.com/800x400/2563eb/ffffff?text=CampEd+UI+Generator+Demo)
-
+🎥 **[Watch Demo Video](https://youtu.be/r0p5KU4WnVw?si=rzx9sdBayBpT0eO1)**
 ## ✨ Features
 
 ### 🤖 AI-Powered Generation
